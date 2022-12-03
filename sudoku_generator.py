@@ -8,7 +8,7 @@ https://www.geeksforgeeks.org/program-sudoku-generator/
 The code labelled "DO NOT CHANGE", and all comments were forked from https://www.github.com/zhoulisha/Sudoku-Project/
 with permission by the University of Florida
 
-The rest of the code was written by Cody Flynn and ____ on 12/2/2022
+The rest of the code was written by Cody Flynn on 12/2/2022
 """
 
 
